@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate developer with expertise in web 
 ### [RZ1 Portfolio Website](https://github.com/THE-RZ1-x/portfolio_rz1)
 A modern, interactive personal portfolio website built with React and Vite, featuring terminal-style animations and professional CV presentation.
 
-![Portfolio Screenshot](https://github.com/THE-RZ1-x/portfolio_rz1/blob/main/path/to/screenshot.png)
+![Portfolio Screenshot](https://github.com/THE-RZ1-x/portfolio_rz1/raw/main/path/to/screenshot.png)
 
 **Features**:
 - Terminal-style typing animation
@@ -39,8 +39,8 @@ A modern, interactive personal portfolio website built with React and Vite, feat
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your_twitter_handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your_twitter_handle) 
 [![Email](https://img.shields.io/badge/Email-Send-blue?style=flat&logo=gmail)](mailto:your.email@example.com)
 
 ## ⚡ Fun Fact
@@ -48,5 +48,23 @@ A modern, interactive personal portfolio website built with React and Vite, feat
 I love to explore new technologies and solve challenging problems. When I'm not coding, you can find me playing chess or exploring the great outdoors.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THE-RZ1-x&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-RZ1-x&layout=compact&theme=radical)
+
+## 🛠️ My Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
