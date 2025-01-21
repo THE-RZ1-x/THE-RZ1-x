@@ -1,53 +1,89 @@
-# Hi there, I'm RZ1! 👋  
-**A Passionate Frontend Developer and Open Source Enthusiast**
+<h1 align="center">Hi there, I'm RZ1! 👋</h1>
+<h3 align="center">A passionate developer exploring the world of code and creativity.</h3>
+
+<p align="center">
+  <a href="https://github.com/THE-RZ1-x">
+    <img src="https://komarev.com/ghpvc/?username=THE-RZ1-x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://twitter.com/[YourTwitterHandle]">
+    <img src="https://img.shields.io/twitter/follow/[YourTwitterHandle]?logo=twitter&style=flat" alt="Twitter Follow" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
-- 💻 I love building modern, interactive web applications.
-- 🌱 I’m currently learning **Advanced Frontend Development** and **TypeScript**.
-- 🔭 I’m working on exciting projects that combine React, Vite, and AI technologies.
-- 🎯 My goal: **Become a full-stack developer and contribute to impactful projects**.
+### 🛠️ **Technologies & Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=THE-RZ1-x&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THE-RZ1-x&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![RZ1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THE-RZ1-x&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-RZ1-x&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THE-RZ1-x&theme=radical)
+### 🚀 **Projects**
+
+Here are some of my featured projects:
+
+- **[Project 1](https://github.com/THE-RZ1-x/Project1):** A brief description of the project.
+- **[Project 2](https://github.com/THE-RZ1-x/Project2):** A brief description of the project.
+- **[Project 3](https://github.com/THE-RZ1-x/Project3):** A brief description of the project.
 
 ---
 
-## 🌟 Featured Projects
-### [💼 Portfolio Website](https://the-rz1-x.github.io/portfolio_rz1/)
-> **Description**: A personal portfolio showcasing my skills, projects, and contact details.  
-> **Tech Stack**: React, CSS Modules, Vite.
+### 📚 **Experience**
 
-### [📚 Blog](https://the-rz1-x.github.io/portfolio_rz1/#/blog)
-> **Description**: A blog where I regularly post articles on web development, AI, and more.  
-> **Tech Stack**: React, Markdown, Vite.
+- **Software Developer**  
+  *Company Name* - *Location*  
+  *Start Date - End Date*  
+  - Developed and maintained web applications using React and Node.js.
+  - Implemented RESTful APIs for seamless communication between frontend and backend.
 
----
-
-## 📫 Let's Connect!
-- 📧 Email: [allhis017@gmail.com](mailto:allhis017@gmail.com)
-- 🌐 [Portfolio Website](https://the-rz1-x.github.io/portfolio_rz1/)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)  
-- 🐦 [Twitter](https://twitter.com/your_twitter_handle)
+- **Open Source Contributor**  
+  *Project Name* - *GitHub*  
+  *Start Date - End Date*  
+  - Contributed to various open-source projects, including bug fixes and feature implementations.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=THE-RZ1-x&label=Profile%20views&color=0e75b6&style=flat)
+### 📫 **How to Reach Me**
+
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/[YourLinkedIn]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/[YourTwitterHandle]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+### 🎮 **Fun Fact**
+
+I once automated a boring task and saved myself 10 hours a week! 😄
+
+---
+
+<p align="center">
+  <img src="https://github.com/THE-RZ1-x/THE-RZ1-x/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
